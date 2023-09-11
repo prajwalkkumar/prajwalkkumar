@@ -6,7 +6,6 @@
 - Software Engineer in Performance at Couchbase - Bangalore, India  (2020-2021)
 - 🌱 I’m currently learning Applied Machine Learning and Advanced Databases during my last semester at UIUC!
 - 👯 I’m looking to collaborate on Cloud Native/Kubernetes open source projects and anything in the distributed systems space!
-📫 How to reach me: Email: prajwal5@illinois.edu 
 - 📫 How to reach me: prajwalkirankumar@gmail.com or prajwal5@illinois.edu
 - 😄 Pronouns: He/Him
 
