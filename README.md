@@ -6,7 +6,7 @@
 - Software Engineer in Performance at Couchbase - Bangalore, India  (2020-2021)
 - 🌱 I’m currently learning Applied Machine Learning and Advanced Databases during my last semester at UIUC!
 - 👯 I’m looking to collaborate on Cloud Native/Kubernetes open source projects and anything in the distributed systems space!
-📫 How to reach me: Email: ritwikd2@illinois.edu Phone: +1 447-902-1363
+📫 How to reach me: Email: prajwal5@illinois.edu 
 - 📫 How to reach me: prajwalkirankumar@gmail.com or prajwal5@illinois.edu
 - 😄 Pronouns: He/Him
 
@@ -58,7 +58,7 @@ Link To Old <a href="https://github.com/prajwalkirankumar">: Github</a>
 Github Stats -
 Link to Internship Git Account <a href="https://github.com/prajwal-kkumar">: Github</a>
 </summary><br>
-<img src="https://github.com/prajwalkkumar/prajwalkkumar/blob/main/Github-Ntx-Stats.png" alt="Github Stats" width="65" height="65" />
+<img src="https://github.com/prajwalkkumar/prajwalkkumar/blob/main/Github-Ntx-Stats.png" alt="Github Stats" width="125" height="65" />
 </summary>
 <br>
 ## My favorite tools and technologies ⚙️
