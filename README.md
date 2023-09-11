@@ -58,7 +58,7 @@ Link To Old <a href="https://github.com/prajwalkirankumar">: Github</a>
 Github Stats -
 Link to Internship Git Account <a href="https://github.com/prajwal-kkumar">: Github</a>
 </summary><br>
-<img src="https://github.com/prajwalkkumar/prajwalkkumar/blob/main/Github-Ntx-Stats.png" alt="Github Stats" width="125" height="65" />
+<img src="https://github.com/prajwalkkumar/prajwalkkumar/blob/main/Github-Ntx-Stats.png" alt="Github Stats" />
 </summary>
 <br>
 ## My favorite tools and technologies ⚙️
