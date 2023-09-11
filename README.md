@@ -54,6 +54,7 @@ I am currently in my final semester, graduating in December 2023.
 <summary>
 Github Stats - Old Github ( I lost access to this :( )
 Link To Old <a href="https://github.com/prajwalkirankumar">: Github</a>
+<img src="https://github.com/prajwalkkumar/prajwalkkumar/blob/main/Github-Stats.png" alt="Github Stats" />
 <br>
 Github Stats -
 Link to Internship Git Account <a href="https://github.com/prajwal-kkumar">: Github</a>
@@ -114,26 +115,21 @@ Link to Internship Git Account <a href="https://github.com/prajwal-kkumar">: Git
 
   <summary>Some interesting repositories! 📌</summary>
   <br/>
-  <a href="hhttps://github.com/prajwalkirankumar/perfrunner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkirankumar&repo=perfrunner&theme=default" />
+  <a href="https://github.com/prajwalkkumar/ServiceX_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkkumar&repo=ServiceX_App&theme=default" />
 </a>
   <br/>
   <br/>
- 
    <a href="https://github.com/prajwalkirankumar/showfast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkirankumar&repo=showfast&theme=default" />
 </a>
   <br/>
   <br/>
- 
-   <a href="https://github.com/prajwalkirankumar/Adogtion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkirankumar&repo=Adogtion&theme=default" />
- </a>
-
-
-   <br/>
+   <a href="https://github.com/prajwalkkumar/perfrunner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkirankumar&repo=perfrunner&theme=default" />
+</a>
   <br/>
- 
-   <a href="https://github.com/rzashakeri/pycharm-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=pycharm-portfolio&theme=default" />
+  <br/>
+   <a href="https://github.com/prajwalkkumar/Skyros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkkumar&repo=Skyros&theme=default" />
  </a>
